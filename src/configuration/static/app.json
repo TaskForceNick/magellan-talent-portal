@@ -9,10 +9,10 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "[ Magellan Talent Group ]",
   "companyLogoPath": "",
-  "companyUrl": "",
-  "careersUrl": "",
+  "companyUrl": "https://magellan-talent.com",
+  "careersUrl": "https://magellan-talent.com/#/",
   "defaultLocale": "en-US",
   "supportedLocales": [
       "en-US",
@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "[ D28WG0 ]",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "[ 44 ]",
     "fields": [
       "id",
       "title",
