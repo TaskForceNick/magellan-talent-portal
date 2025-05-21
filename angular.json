@@ -29,6 +29,7 @@
               "src/static/privacy-policy.html",
               "src/app.json",
               "src/version.txt",
+              "src/_redirects",
               {
                 "glob": "**/*",
                 "input": "src/static/i18n/",
@@ -75,6 +76,7 @@
                 "src/static/custom.css",
                 "src/static/privacy-policy.html",
                 "src/version.txt",
+              "src/_redirects",
                 {
                   "input": "src/configuration/static",
                   "output": "/",
@@ -116,6 +118,7 @@
                 "src/static/custom.css",
                 "src/static/privacy-policy.html",
                 "src/version.txt",
+              "src/_redirects",
                 {
                   "input": "src/configuration/qa",
                   "output": "/",
@@ -157,6 +160,7 @@
                 "src/static/custom.css",
                 "src/static/privacy-policy.html",
                 "src/version.txt",
+              "src/_redirects",
                 {
                   "input": "src/configuration/dynamic",
                   "output": "/",
